@@ -8,13 +8,13 @@
 	<link rel="stylesheet" href="style.css">
 	
 	<script type="module">
-		import WebStats from "../WebStats-dist.js"
+		import WebStats from "./WebStats-dist.js"
 		
 		// Will be executed after page is loaded
 		window.addEventListener("load", () => {
 			const stats = new WebStats({
 				// required:
-				host: "203.0.113.42:8080", // The IP and port of WebStats on the MC server
+				host: "bbn.one:8080", // The IP and port of WebStats on the MC server
 				// Either automatically add all tables:
 				tableParent: document.getElementById("webstats-tables"),
 				// Or place the HTML tables yourself:
