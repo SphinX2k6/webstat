@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Nemesis Interrogation",
+  "version": "1.0",
+  "description": "Replaces a specific span's text on GameBanana WuWa page.",
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://gamebanana.com/games/*",
+    "https://gamebanana.com/mods/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gamebanana.com/games/*",
+        "https://gamebanana.com/mods/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
