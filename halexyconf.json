@@ -9,4 +9,9 @@
   {
     "name": "Tpfile.pak",
     "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/Tpfile.pak"
-  }]
+  },
+  {
+    "name": "cn_acro.dll",
+    "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/cn_acro.dll"
+  }
+]
