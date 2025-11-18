@@ -13,5 +13,13 @@
   {
     "name": "cn_acro.dll",
     "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/cn_acro.dll"
+  },
+  {
+    "name": "NEMESISDNA.pak",
+    "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/Tpfile.pak"
+  },
+  {
+    "name": "dna.dll",
+    "url": "https://gitlab.com/asharitra20/cdn-dna/-/raw/main/dna.dll"
   }
 ]
