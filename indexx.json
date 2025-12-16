@@ -1,0 +1,25 @@
+[{
+    "name": "acro.dll",
+    "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/acro.dll"
+  },
+  {
+    "name": "nemesis_mods.pak.enc",
+    "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/nemesis_mods.pak.enc"
+  },
+  {
+    "name": "Tpfile.pak",
+    "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/Tpfile.pak"
+  },
+  {
+    "name": "cn_acro.dll",
+    "url": "https://github.com/SphinX2k6/webstat/releases/download/v2/cn_acro.dll"
+  },
+  {
+    "name": "NEMESISDNA.pak",
+    "url": "https://github.com/SphinX2k6/Healthcare-WA-BOT/releases/download/v1/NEMESISDNA.pak"
+  },
+  {
+    "name": "dna.dll",
+    "url": "https://github.com/SphinX2k6/Healthcare-WA-BOT/releases/download/v1/dna.dll"
+  }
+]
