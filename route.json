@@ -19,6 +19,10 @@
     {
       "name": "cn_acro.dll",
       "url": "https://github.com/SphinX2k6/webstat/releases/download/3/cn_acro.dll"
+    },
+    {
+      "name": "UI.pak",
+      "url": "https://github.com/SphinX2k6/webstat/releases/download/3/UI.pak"
     }
   ],
   "dna": [
