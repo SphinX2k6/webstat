@@ -25,20 +25,10 @@
       "url": "https://github.com/SphinX2k6/webstat/releases/download/3/UI.pak"
     }
   ],
-  "dna": [
+  "ark": [
     {
-      "name": "NEMESISDNA.pak",
-      "url": "https://github.com/SphinX2k6/Healthcare-WA-BOT/releases/download/v1/NEMESISDNA.pak"
-    },
-    {
-      "name": "dna.dll",
-      "url": "https://github.com/SphinX2k6/Healthcare-WA-BOT/releases/download/v1/dna.dll"
-    }
-  ],
-  "nikke": [
-    {
-      "name": "nikke.dll",
-      "url": "https://github.com/lightyagami/infinitynikke/releases/download/v/nikkemod.dll"
+      "name": "EndfrieldChees.dll",
+      "url": "https://github.com/SphinX2k6/webstat/releases/download/ARKV2/EndfrieldChees.dll"
     }
   ]
 }
