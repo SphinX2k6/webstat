@@ -2,7 +2,7 @@
   "wuwa": [
     {
       "name": "acro.dll",
-      "url": "https://github.com/SphinX2k6/webstat/releases/download/3/acro.dll"
+      "url": "https://github.com/SphinX2k6/webstat/releases/download/3/acro.bin"
     },
     {
       "name": "nemesis_mods.pak.enc",
@@ -18,7 +18,7 @@
     },
     {
       "name": "cn_acro.dll",
-      "url": "https://github.com/SphinX2k6/webstat/releases/download/3/cn_acro.dll"
+      "url": "https://github.com/SphinX2k6/webstat/releases/download/3/cn_acro.bin"
     },
     {
       "name": "UI.pak",
