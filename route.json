@@ -1,10 +1,6 @@
 {
   "wuwa": [
     {
-      "name": "acro.dll",
-      "url": "https://github.com/SphinX2k6/webstat/releases/download/3/acro.bin"
-    },
-    {
       "name": "mod.pak",
       "url": "https://github.com/SphinX2k6/webstat/releases/download/3/mod.pak"
     },
@@ -15,10 +11,6 @@
     {
       "name": "wallpapers.pak",
       "url": "https://github.com/SphinX2k6/webstat/releases/download/3/wallpapers.pak"
-    },
-    {
-      "name": "cn_acro.dll",
-      "url": "https://github.com/SphinX2k6/webstat/releases/download/3/cn_acro.bin"
     },
     {
       "name": "UI.pak",
