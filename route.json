@@ -22,5 +22,11 @@
       "name": "EndfrieldChees.dll",
       "url": "https://github.com/SphinX2k6/webstat/releases/download/ARKV2/EndfrieldChees.dll"
     }
-  ]
+  ],
+  "status": {
+    "snowbreak": {
+      "active": false,
+      "message": "Under maintenance"
+    }
+  }
 }
