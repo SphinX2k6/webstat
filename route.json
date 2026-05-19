@@ -30,7 +30,8 @@
     },
     "wuwa": {
       "active": false,
-      "message": "role member"
+      "message": "Under maintenance",
+      "restricted_to_role": "member"
     }
   }
 }
