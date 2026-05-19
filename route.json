@@ -27,6 +27,10 @@
     "snowbreak": {
       "active": false,
       "message": "Under maintenance"
+    },
+    "wuwa": {
+      "active": false,
+      "message": "message \"Under Maintenance\""
     }
   }
 }
