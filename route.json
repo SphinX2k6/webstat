@@ -32,6 +32,11 @@
       "active": false,
       "message": "Under maintenance",
       "restricted_to_role": "member"
+    },
+    "nte": {
+      "active": false,
+      "message": "Under maintenance",
+      "restricted_to_role": "member"
     }
   }
 }
