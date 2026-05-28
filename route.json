@@ -30,7 +30,7 @@
     },
     "wuwa": {
       "active": true,
-      "message": "",
+      "message": "subscriber",
       "restricted_to_role": "lord"
     },
     "nte": {
