@@ -30,7 +30,8 @@
     },
     "wuwa": {
       "active": false,
-      "message": "Under maintenance"
+      "message": "Under maintenance",
+      "restricted_to_role": "member"
     },
     "nte": {
       "active": false,
