@@ -36,6 +36,10 @@
       "active": false,
       "message": "Under maintenance",
       "restricted_to_role": "member"
+    },
+    "nike": {
+      "active": true,
+      "message": ""
     }
   }
 }
