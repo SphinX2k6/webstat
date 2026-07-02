@@ -32,6 +32,10 @@
       "active": true,
       "message": ""
     },
+    "snowbreak": {
+      "active": true,
+      "message": ""
+    },
     "nte": {
       "active": false,
       "message": "Under maintenance",
