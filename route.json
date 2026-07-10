@@ -25,16 +25,12 @@
   ],
   "status": {
     "snowbreak": {
-      "active": false,
-      "message": "Under maintenance"
+      "active": true,
+      "message": ""
     },
     "wuwa": {
-      "active": true,
-      "message": ""
-    },
-    "snowbreak": {
-      "active": true,
-      "message": ""
+      "active": false,
+      "message": "Under maintenance"
     },
     "nte": {
       "active": false,
