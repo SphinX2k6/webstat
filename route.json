@@ -29,8 +29,8 @@
       "message": ""
     },
     "wuwa": {
-      "active": true,
-      "message": ""
+      "active": false,
+      "message": "member"
     },
     "nte": {
       "active": false,
