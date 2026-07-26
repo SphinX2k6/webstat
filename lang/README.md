@@ -32,11 +32,8 @@ Each language file is a flat JSON object with string key-value pairs:
 | `{feature}.desc` | `flight.desc` | Toggle/checkbox description |
 | `{feature}.hint` | `search.hint` | Input field placeholder |
 | `weather.*` | `weather.sunny` | Weather type names |
-| `ka_mode.*` | `ka_mode.dot` | Kill aura mode names |
+| `the_mode.*` | `ka_mode.dot` | Kill aura mode names |
 | `cmd.*` | `cmd.no_fog` | Console command preset names |
-| `lang.*` | `lang.fetching` | Language UI strings |
-| `notify.*` | `notify.buff_added` | Notification messages |
-| `create_config.label` | — | Button labels |
 
 ## Complete Key List
 
@@ -96,8 +93,8 @@ Each language file is a flat JSON object with string key-value pairs:
 ### Combat Section
 - `kill_aura.label` / `kill_aura.desc`
 - `ka_radius.label`
-- `ka_mode.label` / `ka_mode.desc`
-- `ka_mode.dot`, `ka_mode.instant`, `ka_mode.drown`
+- `in_mode.label` / `ka_mode.desc`
+- `ka_mode.dot`, `ka_mode.instant`, `ka_mode. drowned`
 - `airstrike.label` / `airstrike.desc`
 - `always_crit.label` / `always_crit.desc`
 - `onehit.label` / `onehit.desc`
@@ -212,20 +209,5 @@ Each language file is a flat JSON object with string key-value pairs:
 - `cmd_presets.label` / `cmd_presets.desc`
 - `cmd.debug_camera`, `cmd.no_fog`, `cmd.enable_fog`, `cmd.show_stats`
 - `cmd.freecam_10`, `cmd.freecam_50`, `cmd.freecam_100`
-
-### Configs Section
-- `create_config.label`
-
-### Language Section
-- `lang.current`, `lang.fetching`, `lang.refresh`
-- `lang.downloading`, `lang.active`, `lang.download`
-
-### Notifications
-- `notify.config_loaded`, `notify.config_saved`, `notify.config_deleted`, `notify.config_created`
-- `notify.buff_added`, `notify.invalid_buff_id`, `notify.buffs_cleared`
-- `notify.weather_applied`, `notify.fov_applied`
-- `notify.uid_applied`, `notify.controllers_enabled`, `notify.unlocking_skins`
-- `notify.bridge_test`, `notify.config_saved_modjson`, `notify.command_sent`
-- `notify.entering_dungeon`, `notify.invalid_entrance_id`, `notify.applied`
 
 
