@@ -1,11 +1,8 @@
 {
-  "_meta": {
-    "lang": "zh",
-    "name": "Chinese (Simplified)",
-    "version": "1.0",
-    "author": "SphinX",
-    "description": "Chinese translation for Nemesis Menu"
-  },
+  "_meta.lang": "zh",
+  "_meta.name": "Chinese (Simplified)",
+  "_meta.version": "1.0",
+  "_meta.author": "SphinX",
 
   "tab.combat": "战斗",
   "tab.buffs": "增益",
