@@ -33,9 +33,8 @@
       "message": ""
     },
     "nte": {
-      "active": false,
-      "message": "Under maintenance",
-      "restricted_to_role": "member"
+      "active": true,
+      "message": ""
     },
     "nike": {
       "active": true,
