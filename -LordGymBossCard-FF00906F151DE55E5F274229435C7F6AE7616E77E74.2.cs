@@ -1,0 +1,8 @@
+﻿using System;
+
+// Token: 0x02001371 RID: 4977
+internal enum <LordGymBossCard>FF00906F151DE55E5F274229435C7F6AE7616E77E74F81D9C28ADEA668E8D4845__EComponent
+{
+	// Token: 0x04004024 RID: 16420
+	Toggle
+}

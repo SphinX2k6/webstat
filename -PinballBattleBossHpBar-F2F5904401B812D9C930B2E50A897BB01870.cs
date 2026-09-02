@@ -1,0 +1,14 @@
+﻿using System;
+
+// Token: 0x02001D4C RID: 7500
+internal enum <PinballBattleBossHpBar>F2F5904401B812D9C930B2E50A897BB018708F57D82CD8DEB82D7DCCDD090A761__EComp
+{
+	// Token: 0x040069E3 RID: 27107
+	HpBar,
+	// Token: 0x040069E4 RID: 27108
+	ShieldBar,
+	// Token: 0x040069E5 RID: 27109
+	BuffLayout,
+	// Token: 0x040069E6 RID: 27110
+	BuffItem
+}

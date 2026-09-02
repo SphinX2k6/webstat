@@ -1,0 +1,8 @@
+﻿using System;
+
+// Token: 0x02001D64 RID: 7524
+internal enum <PinballBattleLevelStartTips>FA461DDCD56C123217E51184F1D742851E70CD3EAF3434796340932A495D1972C__EComp
+{
+	// Token: 0x04006A5D RID: 27229
+	Tips
+}

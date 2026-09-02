@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x02002D1E RID: 11550
+internal enum <WeatherCentralMainView>F95068A11C15258925C59ADA20EC087115DDDE5F9560D96C5F1CFD0A35BC980A2__EToggleState
+{
+	// Token: 0x0400B321 RID: 45857
+	None,
+	// Token: 0x0400B322 RID: 45858
+	Normal,
+	// Token: 0x0400B323 RID: 45859
+	Lock
+}

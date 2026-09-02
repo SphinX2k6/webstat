@@ -1,0 +1,10 @@
+﻿using System;
+
+// Token: 0x02001D5E RID: 7518
+internal enum <PinballBattleBossComingTips>F9626629F15E4B1748E08AF590A0663D7855C13F79396E4945956FFF1F43511EC__EComp
+{
+	// Token: 0x04006A58 RID: 27224
+	Name,
+	// Token: 0x04006A59 RID: 27225
+	Icon
+}

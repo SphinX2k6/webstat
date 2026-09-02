@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x02002B6E RID: 11118
+internal enum <SurvivorsRogueRoleInfoItem>F9A0EC482CA2F80B1B7C3C8C35CBDAC4740CD801C83FC24D05753CC3130B176CF__EComponents
+{
+	// Token: 0x0400AB34 RID: 43828
+	TexRole,
+	// Token: 0x0400AB35 RID: 43829
+	TxtRole,
+	// Token: 0x0400AB36 RID: 43830
+	TxtLv
+}

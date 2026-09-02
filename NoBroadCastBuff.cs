@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+
+// Token: 0x02002E9C RID: 11932
+public static class NoBroadCastBuff
+{
+	// Token: 0x0400BD13 RID: 48403
+	[Nullable(1)]
+	[StaticVariableRuleIgnore]
+	public static readonly HashSet<long> Values = new HashSet<long>
+	{
+		1201L,
+		1202L,
+		1203L,
+		12021L,
+		12022L,
+		12023L,
+		1204L,
+		1205L,
+		1206L,
+		1207L,
+		1209L,
+		1210L,
+		1211L,
+		3009L,
+		3010L,
+		3011L,
+		3015L,
+		3023L,
+		1101003010L,
+		1101003012L,
+		1101003013L,
+		90001003L,
+		1001006001L,
+		7100000030L,
+		613670000L,
+		7100000005L,
+		7000000202L,
+		7000000201L,
+		7000000204L,
+		640031030L,
+		7100000038L,
+		7100000039L,
+		7100000040L,
+		7100000043L,
+		640033030L,
+		640033031L,
+		7000000205L,
+		7000000214L,
+		7000000219L,
+		7100000045L,
+		1502000501L,
+		1110001007L,
+		1110001008L,
+		1110001009L
+	};
+}

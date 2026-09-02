@@ -1,0 +1,8 @@
+﻿using System;
+
+// Token: 0x02001D61 RID: 7521
+internal enum <PinballBattleBossSkillTips>FEE64F6518169600FC84EBF71FD258D82735FA38885ADBBB35EA206BF3590C831__EComp
+{
+	// Token: 0x04006A5B RID: 27227
+	Tips
+}

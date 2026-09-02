@@ -1,0 +1,8 @@
+﻿using System;
+
+// Token: 0x02001D78 RID: 7544
+internal enum <PinballBattleRevivePopupView>FCEE8DB29364A0538A66FE6422D8DEC636A475BB00D5AD310323DFBAC2D2C930D__ERoleHead
+{
+	// Token: 0x04006A93 RID: 27283
+	HeadIcon
+}

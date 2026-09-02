@@ -1,0 +1,8 @@
+﻿using System;
+
+// Token: 0x02001D69 RID: 7529
+internal enum <PinballBattleRoleSkillMaxTips>F2190F5773B671077EE27C68FFE9A08496A363BBB648686BB2E948F1B1FA1984D__ERoleHead
+{
+	// Token: 0x04006A64 RID: 27236
+	RoleHead
+}

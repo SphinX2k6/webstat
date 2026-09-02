@@ -1,0 +1,8 @@
+﻿using System;
+
+// Token: 0x0200107A RID: 4218
+internal enum <FurnitureAreaPointItem>F439139053F6159E7894A73643787A86D22A7E882CB102931B3516A67C4D4F36F__EComponent
+{
+	// Token: 0x04003408 RID: 13320
+	ItemToggle
+}

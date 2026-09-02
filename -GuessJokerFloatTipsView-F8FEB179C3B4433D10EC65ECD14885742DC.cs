@@ -1,0 +1,8 @@
+﻿using System;
+
+// Token: 0x0200111F RID: 4383
+internal enum <GuessJokerFloatTipsView>F8FEB179C3B4433D10EC65ECD14885742DC4F20989C68F028E3FB4004E34B2247__EComponents
+{
+	// Token: 0x04003722 RID: 14114
+	TxtTips
+}

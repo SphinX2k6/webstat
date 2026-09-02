@@ -1,0 +1,26 @@
+﻿using System;
+
+// Token: 0x02000E8F RID: 3727
+public enum EMenuConfigPlatform
+{
+	// Token: 0x04002BA0 RID: 11168
+	NORMAL,
+	// Token: 0x04002BA1 RID: 11169
+	PC_OR_PS,
+	// Token: 0x04002BA2 RID: 11170
+	MOBILE,
+	// Token: 0x04002BA3 RID: 11171
+	ANDROID,
+	// Token: 0x04002BA4 RID: 11172
+	IOS,
+	// Token: 0x04002BA5 RID: 11173
+	PlayStation,
+	// Token: 0x04002BA6 RID: 11174
+	PC_ONLY,
+	// Token: 0x04002BA7 RID: 11175
+	XBOX_ONLY,
+	// Token: 0x04002BA8 RID: 11176
+	WinGDK_ONLY,
+	// Token: 0x04002BA9 RID: 11177
+	NONE = 99
+}

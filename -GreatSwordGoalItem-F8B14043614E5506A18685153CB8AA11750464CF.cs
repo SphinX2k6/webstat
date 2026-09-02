@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x02001E18 RID: 7704
+internal enum <GreatSwordGoalItem>F8B14043614E5506A18685153CB8AA11750464CF1929F5DFA1062AC643FDCD82B__EComponent
+{
+	// Token: 0x04006D60 RID: 28000
+	TxtDescript,
+	// Token: 0x04006D61 RID: 28001
+	SprRing,
+	// Token: 0x04006D62 RID: 28002
+	SprFinish
+}
